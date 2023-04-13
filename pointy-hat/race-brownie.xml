@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<name>Brownie from Pointy Hat's YouTube</name>
-		<update version="0.0.1">
+		<update version="0.0.2">
 			<file name="race-brownie.xml" url="https://raw.githubusercontent.com/FreshRoyal/elements-pointyhat/master/pointy-hat/race-brownie.xml" />
 		</update>
 	</info>
@@ -29,12 +29,12 @@
 			<p>The gift of the Queen of the Unseelie and the ever-changing nature of the plane of Faerie make your form and abilities shift like many of the fey. Your change depends on whether you stand in bright light or darkness.</p>
 			<p><b>While in Bright Light:</b></p>
 			<ul>
-    			<li><b>Fury of Air.</b> Light and Air guide your weapon, helping you strike true. When you damage a creature, you may reroll one damage die. You must take the second roll.</li>
+				<li><b>Fury of Air.</b> Light and Air guide your weapon, helping you strike true. When you damage a creature, you may reroll one damage die. You must take the second roll.</li>
 				<li><b>Eyes Unclouded.</b> You have advantage on all checks to see through illusions or recognize them as such.</li>
 			</ul>
 			<p><b>While in Darkness:</b></p>
 			<ul>
-    			<li><b>Fury of Darkness.</b> Dark and Shadow cloak your form, helping you disappear after a strike. When you make a melee, ranged, or spell attack against a creature, you can immediately afterwards take the Disengage or Hide action as part of the Attack action.</li>
+				<li><b>Fury of Darkness.</b> Dark and Shadow cloak your form, helping you disappear after a strike. When you make a melee, ranged, or spell attack against a creature, you can immediately afterwards take the Disengage or Hide action as part of the Attack action.</li>
 				<li><b>Eyes Shadowed.</b> You can see normally in darkness, both magical and nonmagical, to a distance of 60 feet, and you do not have disadvantage on Wisdom (Perception) checks that rely on sight while in dim light.</li>
 			</ul>
 			<p>While in dim light, choose either Fury of Air or Fury of Shadow, and either Eyes Unclouded or Eyes Shadowed.</p>
@@ -94,12 +94,12 @@
 			<p>The gift of the Queen of the Unseelie and the ever-changing nature of the plane of Faerie make your form and abilities shift like many of the fey. Your change depends on whether you stand in bright light or darkness.</p>
 			<p><b>While in Bright Light:</b></p>
 			<ul>
-    			<li><b>Fury of Air.</b> Light and Air guide your weapon, helping you strike true. When you damage a creature, you may reroll one damage die. You must take the second roll.</li>
+				<li><b>Fury of Air.</b> Light and Air guide your weapon, helping you strike true. When you damage a creature, you may reroll one damage die. You must take the second roll.</li>
 				<li><b>Eyes Unclouded.</b> You have advantage on all checks to see through illusions or recognize them as such.</li>
 			</ul>
 			<p><b>While in Darkness:</b></p>
 			<ul>
-    			<li><b>Fury of Darkness.</b> Dark and Shadow cloak your form, helping you disappear after a strike. When you make a melee, ranged, or spell attack against a creature, you can immediately afterwards take the Disengage or Hide action as part of the Attack action.</li>
+				<li><b>Fury of Darkness.</b> Dark and Shadow cloak your form, helping you disappear after a strike. When you make a melee, ranged, or spell attack against a creature, you can immediately afterwards take the Disengage or Hide action as part of the Attack action.</li>
 				<li><b>Eyes Shadowed.</b> You can see normally in darkness, both magical and nonmagical, to a distance of 60 feet, and you do not have disadvantage on Wisdom (Perception) checks that rely on sight while in dim light.</li>
 			</ul>
 			<p>While in dim light, choose either Fury of Air or Fury of Shadow, and either Eyes Unclouded or Eyes Shadowed.</p>
