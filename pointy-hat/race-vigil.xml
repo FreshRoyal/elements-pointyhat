@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<name>Vigil from Pointy Hat's YouTube</name>
-		<update version="0.0.1">
+		<update version="0.0.2">
 			<file name="race-vigil.xml" url="https://raw.githubusercontent.com/FreshRoyal/elements-pointyhat/master/pointy-hat/race-vigil.xml" />
 		</update>
 	</info>
@@ -82,7 +82,7 @@
 				<li>You know if your ward is in life-threatening danger.</li>
 				<li>While you are within 30 feet of your ward, your ward rolls all death saving throws with advantage.</li>
 			</ul>
-			<p>Your life is intrinsically tied to that of your ward. If your ward dies, you die with them. If your ward dies and is later revived through any means including magic, you are not automatically revived with them. You cannot be revived if your ward is dead, but if you are revived while your ward is alive, you immediately regain the effects of <i>Ward Connection</i> upon your revival.</p>
+			<p class="indent">Your life is intrinsically tied to that of your ward. If your ward dies, you die with them. If your ward dies and is later revived through any means including magic, you are not automatically revived with them. You cannot be revived if your ward is dead, but if you are revived while your ward is alive, you immediately regain the effects of <i>Ward Connection</i> upon your revival.</p>
 		</description>
 		<sheet>
 			<description>You are connected to another mortal from birth. This mortal is your ward, and the link between you helps you to protect and watch over them by giving you information on your ward:&#13;
