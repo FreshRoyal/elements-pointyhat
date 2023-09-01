@@ -1,4 +1,5 @@
 # elements-pointyhat
-additional content to extend [Aurora](https://aurorabuilder.com/) with character creation content from [Antonia Demico's Pointy Hat YouTube channel](https://www.youtube.com/@pointyhatstudios).
+This index has been archived. All content has been added to the link below.
 
-index url: https://raw.githubusercontent.com/FreshRoyal/elements-pointyhat/master/pointy-hat.index
+Link: https://github.com/FreshRoyal/elements-youtube
+
